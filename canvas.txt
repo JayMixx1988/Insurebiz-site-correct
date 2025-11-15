@@ -1,0 +1,2 @@
+This ZIP contains the canvas export placeholder.
+Recreate full project files by copying them from the ChatGPT canvas.
